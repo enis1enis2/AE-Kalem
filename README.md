@@ -2,6 +2,8 @@
 
 A modern, rebranded canvas whiteboard inspired by TKALEM. Built as a single-file HTML app with drawing tools, themes, shapes, pan/zoom, and project save/load.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7dd5bb6c-4836-4a64-bee4-557e617b3a53/deploy-status)](https://app.netlify.com/projects/aekalem/deploys)
+
 ## Features
 
 - **Drawing Tools**: Pen and Eraser with adjustable thickness
@@ -19,6 +21,9 @@ A modern, rebranded canvas whiteboard inspired by TKALEM. Built as a single-file
 
 Once GitHub Pages is enabled, the app will be available at: `https://enis1enis2.github.io/AE-KALEM/`
 
+Or:
+
+Try at Netlify: `https://aekalem.netlify.app/`
 ## Usage
 
 Just open `index.html` in a browser, or visit the GitHub Pages link. No build step required.
