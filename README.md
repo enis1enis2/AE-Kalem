@@ -1,6 +1,6 @@
 # A/E KALEM
 
-A modern, rebranded canvas whiteboard inspired by TKALEM. Built as a single-file HTML app with drawing tools, themes, shapes, pan/zoom, and project save/load.
+A modern, rebranded canvas whiteboard. Built as a single-file HTML app with drawing tools, themes, shapes, pan/zoom, and project save/load.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7dd5bb6c-4836-4a64-bee4-557e617b3a53/deploy-status)](https://app.netlify.com/projects/aekalem/deploys)
 
